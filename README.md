@@ -8,3 +8,17 @@ Create a program to store your incomes and expenses in a database. You should be
 - create new categories on user’s request,
 - display your total expenses and incomes, the name of the most expensive category and the money you spent for that category, and your overall balance (the money you have) – this means evaluating all entries of the database,
 - for a user selected time period (the user may enter the start and end date of the period) display statistics for each category (total spent, total income, largest expense).
+
+## How to start
+
+To start the wallet the first time you need to compile by running:
+
+```bash
+gcc main.c DateHandler.c WalletHandler.c -o wallet
+```
+
+Afterwards the wallet application can be started by running
+
+```bash
+./wallet
+```
