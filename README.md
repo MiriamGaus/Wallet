@@ -14,7 +14,7 @@ Create a program to store your incomes and expenses in a database. You should be
 To start the wallet the first time you need to compile by running:
 
 ```bash
-gcc main.c DateHandler.c WalletHandler.c -o wallet
+gcc main.c DateHandler.c WalletHandler.c FileIO.c InputHandler.c -o wallet
 ```
 
 Afterwards the wallet application can be started by running

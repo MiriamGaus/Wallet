@@ -4,7 +4,7 @@ Shopping
 Salary
 Household
 Finances
-8
+11
 30.10.2025
 Groceries
 -4.50
@@ -36,4 +36,16 @@ USD
 10.10.2025
 Salary
 5000.00
+EUR
+31.12.2025
+Groceries
+-30.50
+EUR
+09.07.2025
+Finances
+-74.45
+USD
+07.12.2025
+Household
+0.00
 EUR
