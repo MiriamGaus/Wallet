@@ -22,3 +22,9 @@ Afterwards the wallet application can be started by running
 ```bash
 ./wallet
 ```
+
+To get started the wallet.txt file can be used.
+
+---
+
+Docs and user manual is provided as a Pdf in repository.

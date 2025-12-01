@@ -1,10 +1,11 @@
-5
+6
 Groceries
 Shopping
 Salary
 Household
 Finances
-11
+hobbies
+12
 30.10.2025
 Groceries
 -4.50
@@ -49,3 +50,7 @@ USD
 Household
 0.00
 EUR
+05.11.2025
+Finances
+-9000.00
+HUF
