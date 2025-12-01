@@ -16,7 +16,8 @@ int main(void)
 {
     char path[100];
     Wallet *wallet = (Wallet *)malloc(sizeof(Wallet));
-    if(!wallet) return 1;
+    if (!wallet)
+        return 1;
     printf("Welcome to your WALLET :)\n");
     while (1)
     {
